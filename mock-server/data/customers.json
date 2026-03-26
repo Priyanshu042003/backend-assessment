@@ -1,0 +1,222 @@
+[
+  {
+    "customer_id": "1",
+    "first_name": "Aarav",
+    "last_name": "Mehta",
+    "email": "aarav.mehta@test.com",
+    "phone": "9000000001",
+    "address": "Mumbai",
+    "date_of_birth": "1998-03-12",
+    "account_balance": 1500.75,
+    "created_at": "2026-01-01T09:00:00"
+  },
+  {
+    "customer_id": "2",
+    "first_name": "Isha",
+    "last_name": "Sharma",
+    "email": "isha.sharma@test.com",
+    "phone": "9000000002",
+    "address": "Delhi",
+    "date_of_birth": "1995-07-21",
+    "account_balance": 2200.10,
+    "created_at": "2026-01-02T10:30:00"
+  },
+  {
+    "customer_id": "3",
+    "first_name": "Rohan",
+    "last_name": "Patil",
+    "email": "rohan.patil@test.com",
+    "phone": "9000000003",
+    "address": "Pune",
+    "date_of_birth": "1997-11-05",
+    "account_balance": 1800.00,
+    "created_at": "2026-01-03T11:15:00"
+  },
+  {
+    "customer_id": "4",
+    "first_name": "Sneha",
+    "last_name": "Reddy",
+    "email": "sneha.reddy@test.com",
+    "phone": "9000000004",
+    "address": "Hyderabad",
+    "date_of_birth": "1999-02-18",
+    "account_balance": 2750.50,
+    "created_at": "2026-01-04T08:45:00"
+  },
+  {
+    "customer_id": "5",
+    "first_name": "Karan",
+    "last_name": "Singh",
+    "email": "karan.singh@test.com",
+    "phone": "9000000005",
+    "address": "Chandigarh",
+    "date_of_birth": "1996-06-30",
+    "account_balance": 1950.75,
+    "created_at": "2026-01-05T14:00:00"
+  },
+  {
+    "customer_id": "6",
+    "first_name": "Neha",
+    "last_name": "Gupta",
+    "email": "neha.gupta@test.com",
+    "phone": "9000000006",
+    "address": "Lucknow",
+    "date_of_birth": "1994-09-14",
+    "account_balance": 3100.20,
+    "created_at": "2026-01-06T16:20:00"
+  },
+  {
+    "customer_id": "7",
+    "first_name": "Aditya",
+    "last_name": "Verma",
+    "email": "aditya.verma@test.com",
+    "phone": "9000000007",
+    "address": "Jaipur",
+    "date_of_birth": "1998-01-25",
+    "account_balance": 1200.00,
+    "created_at": "2026-01-07T12:10:00"
+  },
+  {
+    "customer_id": "8",
+    "first_name": "Pooja",
+    "last_name": "Nair",
+    "email": "pooja.nair@test.com",
+    "phone": "9000000008",
+    "address": "Kochi",
+    "date_of_birth": "1997-04-09",
+    "account_balance": 2850.60,
+    "created_at": "2026-01-08T09:40:00"
+  },
+  {
+    "customer_id": "9",
+    "first_name": "Rahul",
+    "last_name": "Yadav",
+    "email": "rahul.yadav@test.com",
+    "phone": "9000000009",
+    "address": "Patna",
+    "date_of_birth": "1993-12-01",
+    "account_balance": 900.50,
+    "created_at": "2026-01-09T18:00:00"
+  },
+  {
+    "customer_id": "10",
+    "first_name": "Ananya",
+    "last_name": "Iyer",
+    "email": "ananya.iyer@test.com",
+    "phone": "9000000010",
+    "address": "Chennai",
+    "date_of_birth": "1999-08-19",
+    "account_balance": 3300.80,
+    "created_at": "2026-01-10T07:30:00"
+  },
+  {
+    "customer_id": "11",
+    "first_name": "Vikram",
+    "last_name": "Joshi",
+    "email": "vikram.joshi@test.com",
+    "phone": "9000000011",
+    "address": "Bhopal",
+    "date_of_birth": "1995-05-05",
+    "account_balance": 2100.00,
+    "created_at": "2026-01-11T13:25:00"
+  },
+  {
+    "customer_id": "12",
+    "first_name": "Meera",
+    "last_name": "Kapoor",
+    "email": "meera.kapoor@test.com",
+    "phone": "9000000012",
+    "address": "Delhi",
+    "date_of_birth": "1996-10-10",
+    "account_balance": 2750.30,
+    "created_at": "2026-01-12T15:45:00"
+  },
+  {
+    "customer_id": "13",
+    "first_name": "Arjun",
+    "last_name": "Das",
+    "email": "arjun.das@test.com",
+    "phone": "9000000013",
+    "address": "Kolkata",
+    "date_of_birth": "1994-03-22",
+    "account_balance": 1400.90,
+    "created_at": "2026-01-13T10:10:00"
+  },
+  {
+    "customer_id": "14",
+    "first_name": "Kavya",
+    "last_name": "Menon",
+    "email": "kavya.menon@test.com",
+    "phone": "9000000014",
+    "address": "Trivandrum",
+    "date_of_birth": "1998-07-07",
+    "account_balance": 3200.00,
+    "created_at": "2026-01-14T11:50:00"
+  },
+  {
+    "customer_id": "15",
+    "first_name": "Siddharth",
+    "last_name": "Bansal",
+    "email": "siddharth.bansal@test.com",
+    "phone": "9000000015",
+    "address": "Noida",
+    "date_of_birth": "1997-09-15",
+    "account_balance": 2600.60,
+    "created_at": "2026-01-15T14:35:00"
+  },
+  {
+    "customer_id": "16",
+    "first_name": "Ritika",
+    "last_name": "Chopra",
+    "email": "ritika.chopra@test.com",
+    "phone": "9000000016",
+    "address": "Amritsar",
+    "date_of_birth": "1995-11-11",
+    "account_balance": 1750.20,
+    "created_at": "2026-01-16T09:05:00"
+  },
+  {
+    "customer_id": "17",
+    "first_name": "Manish",
+    "last_name": "Tiwari",
+    "email": "manish.tiwari@test.com",
+    "phone": "9000000017",
+    "address": "Varanasi",
+    "date_of_birth": "1993-06-06",
+    "account_balance": 800.00,
+    "created_at": "2026-01-17T17:20:00"
+  },
+  {
+    "customer_id": "18",
+    "first_name": "Divya",
+    "last_name": "Agarwal",
+    "email": "divya.agarwal@test.com",
+    "phone": "9000000018",
+    "address": "Indore",
+    "date_of_birth": "1999-01-01",
+    "account_balance": 2950.75,
+    "created_at": "2026-01-18T08:30:00"
+  },
+  {
+    "customer_id": "19",
+    "first_name": "Harsh",
+    "last_name": "Pandey",
+    "email": "harsh.pandey@test.com",
+    "phone": "9000000019",
+    "address": "Kanpur",
+    "date_of_birth": "1996-04-17",
+    "account_balance": 1350.40,
+    "created_at": "2026-01-19T12:00:00"
+  },
+  {
+    "customer_id": "20",
+    "first_name": "Tanvi",
+    "last_name": "Desai",
+    "email": "tanvi.desai@test.com",
+    "phone": "9000000020",
+    "address": "Ahmedabad",
+    "date_of_birth": "1998-12-25",
+    "account_balance": 3100.00,
+    "created_at": "2026-01-20T16:45:00"
+  }
+]
